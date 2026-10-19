@@ -2,3 +2,6 @@ pandas
 scikit-learn 
 matplotlib 
 tensorflow
+numpy
+requests
+beautifulsoup4
